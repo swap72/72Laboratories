@@ -87,6 +87,6 @@ Don’t solve blindly — solve **mindfully**. That's where real growth happens.
 Happy Coding 🚀  
 Push your limits, one problem at a time.
 
-GPT modified my [message](https://docs.google.com/document/d/18po0OuCBD63pjDHZ0f5BwCWNBul_3aFEv4sO4bOIup4/edit?usp=sharing).
+Original [message](https://docs.google.com/document/d/18po0OuCBD63pjDHZ0f5BwCWNBul_3aFEv4sO4bOIup4/edit?usp=sharing).
 
 
