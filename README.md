@@ -36,7 +36,7 @@ developing skills around particular programming languages.
 - **jutge** – Ideal for contest practice; used by universities and organizations for programming competitions  
   [https://jutge.org](https://jutge.org) (Best for assignments, exams, contests and to sharpen coding skills for top level coding contests)
   here is an [example](https://jutge.org/problems/X77065_en/pdf) problem from The [HP CodeWars](https://codewarsbcn.hpcloud.hp.com/) 2024 Barcelona, Spain.
-  [Beginner-Friendly Problems on Jutge](jutge problem set)
+  [Beginner-Friendly Problems on Jutge](jutge_problem_set)
   
 - **Online Judge** – ICPC style Problemsets  
    [https://onlinejudge.org](https://onlinejudge.org)
