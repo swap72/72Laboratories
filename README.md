@@ -82,6 +82,8 @@ Knowing **how to use** these platforms mindfully is **key**.
 This **cultivates deeper understanding** and decodes **problem-solving patterns**.  
 Don’t solve blindly — solve **mindfully**. That's where real growth happens.
 
+_Walk this path with unwavering focus and passion, and you just might carve your name into the [hall of fame](https://cphof.org/) of the world’s most elite coders._
+
 ---
 
 Happy Coding 🚀  
