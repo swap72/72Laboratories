@@ -34,7 +34,8 @@ developing skills around particular programming languages.
   [https://www.spoj.com/](https://www.spoj.com/)
 
 - **jutge** – Ideal for contest practice; used by universities and organizations for programming competitions  
-  [https://jutge.org](https://jutge.org)
+  [https://jutge.org](https://jutge.org) (Best for assignments, exams, contests and to sharpen coding skills for top level coding contests)
+  an example problem from The HP CodeWars 2024 Barcelona, Spain : [https://jutge.org/problems/X77065_en/pdf]
   
 - **Online Judge** – ICPC style Problemsets  
    [https://onlinejudge.org](https://onlinejudge.org)
