@@ -32,11 +32,11 @@ developing skills around particular programming languages.
 
 - **SPOJ** – Wide range of problem sets
 
-- **jutge** – Ideal for contest practice; used by universities and organizations for programming competitions
+- **jutge** – Ideal for contest practice; used by universities and organizations for programming competitions  
   [https://jutge.org](https://jutge.org)
   
-- **Online Judge** – ICPC style Problemsets
-  [https://onlinejudge.org](https://onlinejudge.org)
+- **Online Judge** – ICPC style Problemsets  
+   [https://onlinejudge.org](https://onlinejudge.org)
 
 
 ---
