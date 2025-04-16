@@ -37,7 +37,7 @@ developing skills around particular programming languages.
   [https://jutge.org](https://jutge.org) (Best for assignments, exams, contests and to sharpen coding skills for top level coding contests)
   here is an [example](https://jutge.org/problems/X77065_en/pdf) problem from The [HP CodeWars](https://codewarsbcn.hpcloud.hp.com/) 2024 Barcelona, Spain.
    
-  [Beginner-Friendly Problems on Jutge](jutge_problem_set)
+  [Beginner-Friendly Problems on Jutge](jutge_problem_set.md)
   
 - **Online Judge** – ICPC style Problemsets  
    [https://onlinejudge.org](https://onlinejudge.org)
