@@ -30,7 +30,8 @@ developing skills around particular programming languages.
 - **Kattis** – Programming problem sets  
   [https://open.kattis.com](https://open.kattis.com)
 
-- **SPOJ** – Wide range of problem sets
+- **SPOJ** – Wide range of problem sets  
+  [https://www.spoj.com/](https://www.spoj.com/)
 
 - **jutge** – Ideal for contest practice; used by universities and organizations for programming competitions  
   [https://jutge.org](https://jutge.org)
