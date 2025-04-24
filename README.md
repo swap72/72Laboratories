@@ -67,7 +67,7 @@ developing skills around particular programming languages.
 
 - [AtCoder Beginner Contest Table](https://kenkoooo.com/atcoder/#/table/)
 - [VJudge](https://vjudge.net/problem)
-- [Codeforces](https://codeforces.com/)
+- [https://acm.hdu.edu.cn/](Hangzhou Dianzi University Online Judge)  
 - [UVa Online Judge (via VJudge)](https://vjudge.net/article/380)
 - [Timus Online Judge](https://acm.timus.ru/)
 - [AIZU Online Judge](https://judge.u-aizu.ac.jp/onlinejudge/)
