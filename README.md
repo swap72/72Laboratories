@@ -178,10 +178,6 @@ developing skills around particular programming languages.
 
 - [IOI 2024 (Egypt)](https://www.ioi2024.eg/competition-tasks)
 
-### Poland
-
-- [Main.edu.pl](http://www.main.edu.pl/)
-
 ## 🧑‍💻 Platforms with Structured Problem Sets
 
 - [AlgoZenith](https://maang.in/onboarding)
