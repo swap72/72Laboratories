@@ -1,8 +1,6 @@
 # 🧠 Improve Coding💻👨🏻‍💻🚀 </>
 
-**Edabit** was my personal favorite, until they switched to a subscription-based plan, some platforms like **CodeSignal** focus on  
-developing skills around particular programming languages.
-
+**Edabit** was my personal favorite, until they switched to a subscription-based plan.  
 ---
 
 ## 🛣️ Suggested Path for Beginners
