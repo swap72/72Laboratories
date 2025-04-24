@@ -101,7 +101,7 @@ developing skills around particular programming languages.
 - [Dovelete (Korean)](http://59.23.132.191/)
 - [SW Expert Academy (Samsung)](https://swexpertacademy.com/)
 - [NYPC - Nexon Youth Programming Challenge](https://www.nypc.co.kr/main/main.do)
-- [CodeGround (Korean)](https://www.codeground.org/about)
+- [CodeGround by Samsung (Korean)](https://www.codeground.org/about)
 
 ### Indonesia
 
