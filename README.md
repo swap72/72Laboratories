@@ -1,7 +1,16 @@
 # 🧠 Improve Coding💻👨🏻‍💻🚀 </>
 
-**Edabit** was my personal favorite, until they switched to a subscription-based plan.  
-My Suggested learning plan would be : learn complete DS & Algorithms and build a strong foundation theoretically and then start with coding bat, then codewars, then then AtCoder beginner contests, then leetcode, then whatever you like
+_**Edabit was my preferred platform early on, but after it moved to a subscription model, I transitioned to other resources.**_
+
+**_Suggested Learning Path:_**
+
+- **Master DSA fundamentals** – Build a solid grasp of core topics like arrays, trees, graphs, recursion, and dynamic programming.
+- **Start with CodingBat** – Great for reinforcing basic constructs and recursion through quick exercises.
+- **Move to Codewars** – Practice language fluency and intermediate-level algorithmic challenges.
+- **Enter AtCoder Beginner Contests** – Build competitive problem-solving skills in a timed environment.
+- **Advance to LeetCode** – Tackle interview-level problems across all major DSA topics.
+- **Expand as needed** – Explore Codeforces, CodeChef, or other platforms based on your goals.
+
 ---
 
 ## 🛣️ Suggested Path for Beginners
