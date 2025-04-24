@@ -52,8 +52,7 @@ developing skills around particular programming languages.
 
 ---
 
-### Explore More 🏋🏻‍♂️
-# 🧠 Competitive Programming & Problem Solving Resources
+### Explore More 🧠🏋🏻‍♂️
 
 ## 📚 Beginner Training
 
