@@ -88,7 +88,6 @@ developing skills around particular programming languages.
 - [HDuOJ](https://acm.hdu.edu.cn/)
 - [CodeVS](http://codevs.cn/problem/)
 - [2333 OJ](https://ac.2333.moe/)
-- [2333 OJ (Duplicate)](https://ac.2333.moe/)
 
 ### Country/Region Specific
 
@@ -136,7 +135,6 @@ developing skills around particular programming languages.
 
 ## 📚 Miscellaneous References
 
-- [Online Judge Wiki (Code.Fandom)](https://code.fandom.com/wiki/Online_judge)
 - [Outsbook (School Platform)](https://school.outsbook.com/)
 
 ---
