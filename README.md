@@ -52,6 +52,97 @@ developing skills around particular programming languages.
 
 ---
 
+### Explore More 🏋🏻‍♂️
+# 🧠 Competitive Programming & Problem Solving Resources
+
+## 📚 Beginner Training
+
+- [Boot Camp for Beginners (AtCoder)](https://kenkoooo.com/atcoder/#/training/Boot%20camp%20for%20Beginners)
+- [Work@Tech - Beginner Problem Set](https://workat.tech/problem-solving/lists/beginner-problems/practice?difficulty=beginner)
+- [GeeksforGeeks - Basic Programming Problems](https://www.geeksforgeeks.org/basic-programming-problems/)
+- [GeeksforGeeks - Interview Prep](https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/)
+
+## 🏆 Online Judges
+
+### Global Platforms
+
+- [AtCoder Beginner Contest Table](https://kenkoooo.com/atcoder/#/table/)
+- [VJudge](https://vjudge.net/problem)
+- [Codeforces](https://codeforces.com/)
+- [UVa Online Judge (via VJudge)](https://vjudge.net/article/380)
+- [Timus Online Judge](https://acm.timus.ru/)
+- [AIZU Online Judge](https://judge.u-aizu.ac.jp/onlinejudge/)
+- [CS Academy](https://csacademy.com/)
+- [OJ.uz](https://oj.uz/problems?locale=en)
+- [Codebreaker](https://codebreaker.xyz/problems)
+- [Toph](https://toph.co/problems)
+- [E-Olymp](https://eolymp.com/en)
+  - [Basecamp](https://basecamp.eolymp.com/en/problems)
+- [Luogu](https://www.luogu.com.cn/contest/list)
+- [LightOJ](https://lightoj.com/)
+- [ACMP](https://acmp.ru/)
+- [UOJ](https://uoj.ac/)
+- [Yosupo Judge](https://judge.yosupo.jp/)
+- [PEG Judge](https://wcipeg.com/problems)
+- [POJ (Peking University)](http://poj.org/problemlist)
+- [OpenJudge](http://openjudge.cn/)
+- [HDuOJ](https://acm.hdu.edu.cn/)
+- [CodeVS](http://codevs.cn/problem/)
+- [2333 OJ](https://ac.2333.moe/)
+- [2333 OJ (Duplicate)](https://ac.2333.moe/)
+
+### Country/Region Specific
+
+- [Baekjoon Online Judge (BOJ)](https://www.acmicpc.net/)
+- [Solved.ac (Korean BOJ tracker)](https://solved.ac/en)
+- [KOI (Korean Olympiad in Informatics)](https://koi.or.kr/)
+- [Jungol (Korean)](http://www.jungol.co.kr/)
+- [CodeUp (Korean)](http://codeup.kr/)
+- [SoftEeR (Korean)](https://softeer.ai/)
+- [Programmers (Korean)](https://programmers.co.kr/)
+- [Dovelete (Korean)](http://59.23.132.191/)
+- [SW Expert Academy (Samsung)](https://swexpertacademy.com/)
+- [NYPC - Nexon Youth Programming Challenge](https://www.nypc.co.kr/main/main.do)
+- [CodeGround (Korean)](https://www.codeground.org/about)
+
+### Indonesia
+
+- [TLX (TOKI Learning Center)](https://tlx.toki.id/)
+
+### Egypt
+
+- [IOI 2024 (Egypt)](https://www.ioi2024.eg/competition-tasks)
+
+### Poland
+
+- [Main.edu.pl](http://www.main.edu.pl/)
+
+## 🧑‍💻 Platforms with Structured Problem Sets
+
+- [AlgoZenith](https://maang.in/onboarding)
+- [CodeDrills](https://codedrills.io/problems)
+- [Yukicoder](https://yukicoder.me/)
+  - [Yukicoder Table (Community View)](https://iilj.github.io/yukicoder-problems/#/table/)
+- [Codolio](https://codolio.com/)
+- [KOI Study](http://koistudy.net)
+
+## 🎄 Seasonal Challenges
+
+- [Advent of Code](https://adventofcode.com/)
+
+## 📘 ICPC / Olympiad Resources
+
+- [Baylor ICPC Site](https://cs.baylor.edu/~hamerly/icpc/)
+- [USACO Guide](https://usaco.guide/general/olympiads)
+
+## 📚 Miscellaneous References
+
+- [Online Judge Wiki (Code.Fandom)](https://code.fandom.com/wiki/Online_judge)
+- [Outsbook (School Platform)](https://school.outsbook.com/)
+
+---
+
+
 ### 🌍 Official Competitive Programming Gateway
 - **ICPC Official Website** – Welcome to CP, LezGooooo..!!  
 
