@@ -1,6 +1,7 @@
 # 🧠 Improve Coding💻👨🏻‍💻🚀 </>
 
 **Edabit** was my personal favorite, until they switched to a subscription-based plan.  
+My Suggested learning plan would be : learn complete DS & Algorithms and build a strong foundation theoretically and then start with coding bat, then codewars, then then AtCoder beginner contests, then leetcode, then whatever you like
 ---
 
 ## 🛣️ Suggested Path for Beginners
