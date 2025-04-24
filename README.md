@@ -1,6 +1,6 @@
 # 🧠 Improve Coding💻👨🏻‍💻🚀 </>
 
-_**Edabit was my preferred platform early on, but after it moved to a subscription model, I transitioned to other resources.**_
+_**Edabit was my preferred platform until they switched to a subscription model.**_
 
 **_Suggested Learning Path:_**
 
