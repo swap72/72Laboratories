@@ -2,25 +2,30 @@
 
 _**Edabit was my preferred platform until they switched to a subscription model.**_
 
-**_Suggested Learning Path:_**
+**_Curated Learning Path:_**
 
 - **Master DSA fundamentals** – Build a solid grasp of core topics like arrays, trees, graphs, recursion, and dynamic programming.
-- **Start with CodingBat** – Great for reinforcing basic constructs and recursion through quick exercises.
-- **Move to Codewars** – Practice language fluency and intermediate-level algorithmic challenges.
-- **Enter AtCoder Beginner Contests** – Build competitive problem-solving skills in a timed environment.
-- **Advance to LeetCode** – Tackle interview-level problems across all major DSA topics.
-- **Expand as needed** – Explore Codeforces, CodeChef, or other platforms based on your goals.
+- [CodingBat](https://codingbat.com) – Rock Solid fundamentals to the Core.
+- [Edabit](https://edabit.com/challenges) – Fun and quick beginner-level problems.
+- [Codewars (8 kyu problems)](https://www.codewars.com) – Start with the easiest challenges (8 kyu) to build confidence.
+- [CodeStepByStep](https://www.codestepbystep.com) – Guided problems to build logic step-by-step.
+- [Learn to Program Course on Jutge](https://jutge.org/courses) – Great introductory programming course.
+- [CodeAbbey](https://www.codeabbey.com) – Classic beginner programming challenges.
+- [GeeksforGeeks – Interview Prep](https://www.geeksforgeeks.org) – Start with basic DSA and beginner programming problems.
 
 ---
 
-## 🛣️ Suggested Path for Beginners
+## 🔁 Beginner II
 
-### 🌱 Foundation Stage
-- **CodingBat** – Start here for a strong foundation  
-- **Edabit** – Great for absolute beginners  
-- **Codewars** – Beginner Friendly I  
-- **HackerRank** – Structured Learning and Practice I  
-- **LeetCode** – Beginner Friendly II  
+Move to slightly more challenging platforms to reinforce fundamentals and prepare for intermediate levels.
+
+- [Beecrowd](https://www.beecrowd.com.br) – Solve beginner-level algorithm problems.
+- [Introduction to Programming I – ITP1 (Aizu Online Judge)](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_1_A) – A well-structured and respected programming series.
+- [Toph](https://toph.co) – Focus on easy problems to get used to new formats.
+- [Kattis (Easy Problems)](https://open.kattis.com) – Filter by difficulty to start with beginner-level tasks.
+- [Eolymp Basecamp](https://www.eolymp.com) – Follow the Basecamp path for beginner guidance.
+- [AtCoder Beginner Contests](https://atcoder.jp) – Compete in or solve past beginner-level contests.
+- [Codebreaker](https://codebreaker.xyz/problems) – A mix of school-level and beginner competitive problems.
 
 ---
 
