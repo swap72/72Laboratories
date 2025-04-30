@@ -1,8 +1,9 @@
 # 🧠 Improve Coding💻👨🏻‍💻🚀 </>
 
 _**Edabit was my preferred platform until they switched to a subscription model.**_
+# _Curated Learning Path_
+## 🧩 Beginner I
 
-**_Curated Learning Path:_**
 
 - **Master DSA fundamentals** – Build a solid grasp of core topics like arrays, trees, graphs, recursion, and dynamic programming.
 - [CodingBat](https://codingbat.com) – Rock Solid fundamentals to the Core.
