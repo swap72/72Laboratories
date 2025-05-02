@@ -22,6 +22,8 @@ Move to slightly more challenging platforms to reinforce fundamentals and prepar
 
 - [Beecrowd](https://www.beecrowd.com.br) – Solve beginner-level algorithm problems.
 - [Codebreaker](https://codebreaker.xyz/problems) – A mix of school-level and beginner competitive problems.
+- [Reply Challenges](https://challenges.reply.com/) – Tech and coding competitions hosted by Reply, including learning resources and foundational programming lessons.
+  - [Start with Code Challenge Teen Edition ](https://challenges.reply.com/challenges/coding-teen/learn-train/)
 - [Introduction to Programming I – ITP1 (Aizu Online Judge)](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_1_A) – A well-structured and respected programming series.
 - [Toph](https://toph.co) – Focus on easy problems to get used to new formats.
 - [LeetCode (Easy Problems)](https://leetcode.com/problemset/all/?difficulty=Easy) – Practice data structures and algorithms with a structured problem set.
