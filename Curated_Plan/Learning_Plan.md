@@ -45,6 +45,7 @@ A well-curated list of tutorials, problem sets, coding patterns, and channels to
 - [Problem-Solving Patterns (LinkedIn)](https://www.linkedin.com/pulse/patterns-problem-solving-ankur-agrawal/)
 - [Mastering Problem-Solving Patterns in JavaScript (Medium)](https://medium.com/@ndmangrule/mastering-problem-solving-patterns-in-javascript-20-essential-coding-patterns-part-1-580a00d09d24)
 - [Essential DSA Problem-Solving Patterns.md)](https://github.com/swap72/72Laboratories/blob/main/Curated_Plan/Essential%20DSA%20Problem-Solving%20Patterns.md)  
+- [Essential DSA Problem-Solving Patterns.md)](https://github.com/swap72/72Laboratories/blob/main/Curated_Plan/Essential%20Problem%20Solving%20Patterns.md)  
 
 ---
 
