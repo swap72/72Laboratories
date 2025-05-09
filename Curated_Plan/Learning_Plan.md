@@ -14,7 +14,7 @@ A well-curated list of tutorials, problem sets, coding patterns, and channels to
 - [Logic Building Problems (GeeksforGeeks)](https://www.geeksforgeeks.org/logic-building-problems/)
 - [Top Problems on Logic Building for Interviews (GeeksforGeeks)](https://www.geeksforgeeks.org/top-problems-on-logic-building-problems-for-interviews/)
 - [Improve Logic Building Skills in Programming (Medium)](https://medium.com/javarevisited/steal-these-9-hacks-to-improve-logic-building-skills-in-programming-8e880eaedd83)
-- [Basic Interview Problemset)](https://swap72.github.io/72Laboratories/Curated_Plan/basic_interview_problemset)      
+- [Basic Interview Problemset](https://swap72.github.io/72Laboratories/Curated_Plan/basic_interview_problemset)      
 
 ---
 
