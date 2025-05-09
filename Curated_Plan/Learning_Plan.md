@@ -66,6 +66,7 @@ A well-curated list of tutorials, problem sets, coding patterns, and channels to
 
 ---
 
-## 📒 Company-Wise / GitHub Resource Collections
+## 📒 GitHub Resource Collections
 
 - [Company-Wise DSA Problems (Nishant Tiwari’s GitHub)](https://github.com/nishant-Tiwari24/company-wise-dsa/blob/main/logic-building.md)
+- [75 Interview Questions](https://github.com/swap72/72Laboratories/blob/main/Curated_Plan/75%20LeetCode%20Questions%20for%20Interviews.pdf)
