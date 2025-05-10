@@ -35,6 +35,9 @@ A well-curated list of tutorials, problem sets, coding patterns, and channels to
 - [Top Sorting Interview Questions and Problems](https://www.geeksforgeeks.org/top-sorting-interview-questions-and-problems/)
 - [Top 50 Searching Coding Problems for Interviews](https://www.geeksforgeeks.org/top-50-searching-coding-problems-for-interviews/)
 - [Codedamn DSA Practice Challenges](https://codedamn.com/challenge/dsa-practice#challenges)
+- [Easy String Interview Questions](https://algodaily.com/sections/easy-strings-interview-questions)  
+- [20 String Coding Problems for Interviews](https://dev.to/javinpaul/top-20-string-coding-problems-from-programming-job-interviews-493m)  
+- [Array Interview Questions](https://igotanoffer.com/blogs/tech/array-interview-questions)  
 
 ---
 
