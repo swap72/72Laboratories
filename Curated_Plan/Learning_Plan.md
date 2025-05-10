@@ -7,6 +7,7 @@ A well-curated list of tutorials, problem sets, coding patterns, and channels to
 ## 📖 DSA Tutorials
 
 - [DSA Tutorial - Learn Data Structures and Algorithms (GeeksforGeeks)](https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms/)
+- [Lear to Code 101]([https://www.geeksforgeeks.org/logic-building-problems/](https://github.com/swap72/72Laboratories/blob/main/Curated_Plan/Sharpen%20your%20coding%20logic.pdf))  
 
 ---
 
