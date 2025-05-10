@@ -71,6 +71,7 @@ A well-curated list of tutorials, problem sets, coding patterns, and channels to
 - [Easy Programming Tutorials](https://www.easyprogramming.in/Tutorial)
 - [Basic Interview Problemset (Must for Interviews)](https://swap72.github.io/72Laboratories/Curated_Plan/basic_interview_problemset)
 - [30 Repeated Coding Problems on Arrays](https://swap72.github.io/72Laboratories/Curated_Plan/30_Repeated_Coding_Problems_on_Arrays)
+- [Good Resource](https://www.techinterviewhandbook.org/algorithms/math/)
 
 ---
 
