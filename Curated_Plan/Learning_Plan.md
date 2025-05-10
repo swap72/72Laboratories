@@ -63,7 +63,8 @@ A well-curated list of tutorials, problem sets, coding patterns, and channels to
 - [GeeksforGeeks Learning Programming/DSA Path](https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms/)
 - [Codecademy Java Language Article](https://www.codecademy.com/articles/language/java)
 - [Easy Programming Tutorials](https://www.easyprogramming.in/Tutorial)
-- [Basic Interview Problemset(Must for Interviews)](https://swap72.github.io/72Laboratories/Curated_Plan/basic_interview_problemset)  
+- [Basic Interview Problemset (Must for Interviews)](https://swap72.github.io/72Laboratories/Curated_Plan/basic_interview_problemset)
+- [30 Repeated Coding Problems on Arrays](https://swap72.github.io/72Laboratories/Curated_Plan/30_Repeated_Coding_Problems_on_Arrays)
 
 ---
 
