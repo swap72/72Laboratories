@@ -103,6 +103,7 @@ Move to slightly more challenging platforms to reinforce fundamentals and prepar
 - [POJ (Peking University)](http://poj.org/problemlist)
 - [OpenJudge](http://openjudge.cn/)
 - [HDuOJ](https://acm.hdu.edu.cn/)
+- [CodeSignal](https://codesignal.com/) — Practice language specific coding problems for job assessments.
 - [CodeVS](http://codevs.cn/problem/)
 - [2333 OJ](https://ac.2333.moe/)
 - [Google Code Jam Archive](https://zibada.guru/gcj/)
