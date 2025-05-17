@@ -123,6 +123,7 @@ Move to slightly more challenging platforms to reinforce fundamentals and prepar
 - - [A2oJ - Catagory Wise](https://a2oj.netlify.app/dsa_interview)
 - - [A2oJ - DSA Interview Problems/Questions](https://a2oj.netlify.app/dsa_interview)
 - [Luogu](https://www.luogu.com.cn/)
+- [Library Checker](https://judge.yosupo.jp/)  
 - [Vijos](https://vijos.org/)
 - [Jisuanke](https://www.jisuanke.com/problems)
 - [Robocontest (Uzbekistan)](https://robocontest.uz/olympiads)
