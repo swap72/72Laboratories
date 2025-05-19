@@ -39,7 +39,7 @@ A well-curated list of tutorials, problem sets, coding patterns, and channels to
 - [20 String Coding Problems for Interviews](https://dev.to/javinpaul/top-20-string-coding-problems-from-programming-job-interviews-493m)  
 - [Array Interview Questions](https://igotanoffer.com/blogs/tech/array-interview-questions)
 - [TCS Coding Problems](https://takeuforward.org/interviews/tcs-nqt-coding-sheet-tcs-coding-questions/)
-- [Frequently Asked Coding Question Freshers Cheat sheet](https://swap72.github.io/72Laboratories/Curated_Plan/Learning_Plan/freshers_cheatsheet)  
+- [Frequently Asked Coding Question Freshers Cheat sheet](https://swap72.github.io/72Laboratories/Curated_Plan/freshers_cheatsheet)  
 
 ---
 
