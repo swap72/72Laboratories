@@ -17,7 +17,7 @@ _**Edabit was my preferred platform until they switched to a subscription model.
 ---
 
 ## 🔁 Beginner II
-###### _(Before Proceeding.. be aware that for someone to just improve and become good in coding Beginner I is enough)_
+###### _(Before Proceeding.. be aware that for someone to just improve and become good in coding Beginner I is enough, explore those platforms thoroughly)_
 Move to slightly more challenging platforms to reinforce fundamentals and prepare for intermediate levels.
 
 - [Beecrowd](https://www.beecrowd.com.br) – Solve beginner-level algorithm problems.
