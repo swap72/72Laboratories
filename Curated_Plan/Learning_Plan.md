@@ -73,6 +73,9 @@ A well-curated list of tutorials, problem sets, coding patterns, and channels to
 - [Basic Interview Problemset (Must for Interviews)](https://swap72.github.io/72Laboratories/Curated_Plan/basic_interview_problemset)
 - [30 Repeated Coding Problems on Arrays](https://swap72.github.io/72Laboratories/Curated_Plan/30_Repeated_Coding_Problems_on_Arrays)
 - [Good Resource](https://www.techinterviewhandbook.org/algorithms/math/)
+- [Learning Courses](https://www.educative.io/)
+- [A Visual Handbook of Data Structures and Algorithms Concepts](https://www.freecodecamp.org/news/leetcode-dsa-concepts-handbook/)
+- [The Ultimate Guide to Coding Patterns for Cracking Top Tech Interviews (2025)](https://www.freecodecamp.org/news/leetcode-dsa-concepts-handbook/)  
 
 ---
 
