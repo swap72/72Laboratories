@@ -102,6 +102,7 @@ Move to slightly more challenging platforms to reinforce fundamentals and prepar
 - [PEG Judge](https://wcipeg.com/problems)
 - [POJ (Peking University)](http://poj.org/problemlist)
 - [OpenJudge](http://openjudge.cn/)
+- [VNOI Online Judge](https://oj.vnoi.info/)  
 - [HDuOJ](https://acm.hdu.edu.cn/)
 - [CodeSignal](https://codesignal.com/) — Practice language specific coding problems for job assessments.
 - [CodeVS](http://codevs.cn/problem/)
