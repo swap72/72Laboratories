@@ -44,7 +44,7 @@ for AI/ML , Data Science python is obvious.
 
 ## Who is a complete Developer ?
 
-**My Definition of a good developer :**
+**My Definition of a good complete developer :**
 
 - has learned C language as their first programming language  
 - Expert in Java/C#/C++ or Python
