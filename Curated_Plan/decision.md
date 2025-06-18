@@ -38,6 +38,7 @@ learn C, python, JavaScript and SQL very well, then move onto either Java or C# 
 if solely interested in Systems programming and WebAssembly blindly go with Rust and C++
 
 for programming embedded systems as of today there are no better options other than C/C++, Rust and Zig.
+for AI/ML , Data Science python is obvious.
 
 ---
 
@@ -46,7 +47,7 @@ for programming embedded systems as of today there are no better options other t
 **My Definition of a good developer :**
 
 - has learned C language as their first programming language  
-- Expert in Java/C#  
+- Expert in Java/C#/C++ or Python
 - good knowledge in shell scripting  
 - good in JavaScript, Python  
 - good in at least 3 development frameworks  
