@@ -54,4 +54,5 @@ for AI/ML , Data Science python is obvious.
 - knows how to operate at least 5 developer tools  
 - knows either AWS, Azure or GCP  
 - has at least basic knowledge of C++ or Rust  
-- has basic understanding of embedded systems  
+- has basic understanding of embedded systems
+- Ability to adapt and learn quickly ✅
