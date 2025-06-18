@@ -75,7 +75,8 @@ A well-curated list of tutorials, problem sets, coding patterns, and channels to
 - [Good Resource](https://www.techinterviewhandbook.org/algorithms/math/)
 - [Learning Courses](https://www.educative.io/)
 - [A Visual Handbook of Data Structures and Algorithms Concepts](https://www.freecodecamp.org/news/leetcode-dsa-concepts-handbook/)
-- [The Ultimate Guide to Coding Patterns for Cracking Top Tech Interviews (2025)](https://www.freecodecamp.org/news/leetcode-dsa-concepts-handbook/)  
+- [The Ultimate Guide to Coding Patterns for Cracking Top Tech Interviews (2025)](https://www.freecodecamp.org/news/leetcode-dsa-concepts-handbook/)
+- [Curated Programming Resources by Michael](https://github.com/Michael0x2a/curated-programming-resources)   
 
 ---
 
