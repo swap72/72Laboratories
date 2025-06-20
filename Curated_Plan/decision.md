@@ -65,7 +65,8 @@ Just because you think you are perfect in that high-paying `xyz` language, doesn
 
 Every language is **powerful in its own use case**.
 
-If an `xyz` language has high-paying jobs — but you’re a low-level kinda guy like me — you’d choose **passion over money**.  
+If an `xyz` language has high-paying jobs — but if you’re a low-level kinda guy (microcontrollers and stuff..) like me — you’d choose **passion over money**.  
+(⚠️I am not into programming microcontrollers and chips(this is big brain stuff..), I Just enjoy coding in system-level language)
 
 Or say you enjoy **writing code** in that particular language or love its features more than any other high-paying languages — then you should pick and choose **what makes you happier**, because **satisfaction is priceless**.
 
