@@ -29,7 +29,7 @@ Otherwise, in terms of features, I personally believe that **C#** is a more feat
 
 ---
 
-## ✅ Conclusion :
+## ✅ DOs :
 
 Learn **C**, **Python**, **JavaScript**, and **SQL** very well — then move on to either **Java** or **C#** for a strong backend language option in API development.  
 
@@ -85,4 +85,6 @@ Or say you enjoy **writing code** in that particular language or love its featur
 - A **principled programmer** — writes efficient, clean, readable code and follows standard coding discipline  
 
 ---
+
+## ✅ Conclusion : *Having a toolbox is alwyas better than having a single tool*
 
