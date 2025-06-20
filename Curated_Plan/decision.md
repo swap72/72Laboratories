@@ -27,6 +27,9 @@ Otherwise, in terms of features, I personally believe that **C#** is a more feat
 - Start learning **Go** if you’re into **cloud technologies** and **developer operations**.
 - As a hobby, I’m currently learning **Rust** and squeezing out some time to read about the **Zig programming language** for **embedded systems**.
 
+
+#### And Why Limit yourself??
+- Earning money, wanting more is not a sin, you can always be a master of 4-5 languages, tools and frameworks.
 ---
 
 ## ✅ DOs :
