@@ -20,6 +20,7 @@ To strengthen OOP concepts, pick **Java**. It has more job listings, much larger
 The only reason why **Java** is ahead of **C#** is because C#'s open-sourcing happened much later, primarily after 2014 under Microsoft — leaving Java far ahead in the open-source adoption race. This also explains why there are more jobs in **Java** than in **C#**.
 
 Otherwise, in terms of features, I personally believe that **C#** is a more feature-rich language than **Java**.
+But that being said, you can not write off the fact that C# is indeed born out of [Java's language design philosophy](https://www.youtube.com/watch?v=fPlumnuhTco&t=499s).
 
 ---
 
