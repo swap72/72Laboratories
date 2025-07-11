@@ -30,7 +30,7 @@ But that being said, you can not write off the fact that C# is indeed born out o
 
 
 #### And Why Limit yourself??
-- Earning money, wanting more is not a sin, you can always be a master of 4-5 languages, tools and frameworks.
+- Wanting more is nothing bad, you can always be a master of 4-5 languages, tools and frameworks.
 ---
 
 ## ✅ DOs :
