@@ -91,5 +91,5 @@ Or say you enjoy **writing code** in that particular language or love its featur
 
 ---
 
-## ✅ Conclusion : *Having a toolbox is alwyas better than having a single tool*
+## ✅ Conclusion : *Having a [toolbox](https://swap72.github.io/72Laboratories/Curated_Plan/architectisartist) is alwyas better than having a single tool*
 
