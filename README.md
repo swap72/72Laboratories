@@ -7,6 +7,7 @@ _**Edabit was my preferred platform until they switched to a subscription model.
 
 - **Master DSA fundamentals** – Build a solid grasp of core topics like arrays, trees, graphs, recursion, and dynamic programming.
 - [CodingBat](https://codingbat.com) – Rock Solid fundamentals to the Core.
+- [CodeHS](https://codehs.com/practice/java) – Basic Practice Problems.
 - [Edabit](https://edabit.com/challenges) – Fun and quick beginner-level problems.
 - [Codewars (8 kyu problems)](https://www.codewars.com) – Start with the easiest challenges (8 kyu) to build confidence.
 - [CodeStepByStep](https://www.codestepbystep.com) – Guided problems to build logic step-by-step.
