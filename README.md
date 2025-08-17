@@ -225,6 +225,8 @@ Move to slightly more challenging platforms to reinforce fundamentals and prepar
 ## 📚 Miscellaneous References
 
 - [Outsbook (School Platform)](https://school.outsbook.com/)
+- [YOSUPO Judge](https://judge.yosupo.jp/)
+- [Competitive Programming Training Gate](https://tlx.toki.id/)  
 
 ---
 
