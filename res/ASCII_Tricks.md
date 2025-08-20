@@ -23,11 +23,3 @@ These are handy for **DSA problems**, **competitive programming**, or just quick
 | Hexadecimal conversion | `(c >= '0' && c <= '9') ? (c - '0') : (c - 'A' + 10)` | `'B'` → 11 |
 
 ---
-
-## 💻 Examples
-
-### 1. Char → Int
-```java
-char c = '7';
-int num = c - '0'; // or c - 48
-System.out.println(num); // 7
