@@ -24,5 +24,6 @@ Jot down the sequence find the pattern in the sequence
 
 Construct the recurrence relation formula for the sequence
 Identify the base case condition and use recursive call accordingly.
+But always remember when using recursive approach you must and should have a **base case condition** : this is the crux of recursion
 Get specific here at [Code Guide](https://docs.google.com/document/d/1uKFaKRGFuAxSxKozWqfn5fmgNZ64fKfx2FWmsG0McP4/edit?usp=sharing)
 
