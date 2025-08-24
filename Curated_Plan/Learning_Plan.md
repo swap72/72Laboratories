@@ -89,6 +89,8 @@ A well-curated list of tutorials, problem sets, coding patterns, and channels to
 ## Misc
 - [The legend of DP](https://swap72.github.io/72Laboratories/res/dp)
 - [Java Character & ASCII Tricks](https://swap72.github.io/72Laboratories/res/ASCII_Tricks)
+- [Problem Solving Patterns](https://raw.githubusercontent.com/swap72/72Laboratories/refs/heads/main/res/IMG_20250729_020053_955.jpg)
+
   
 
 ---
