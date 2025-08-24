@@ -1,6 +1,6 @@
 # The Art of Dynamc Programming
 "Dynamic" here means more than what it actually seems.
-To Understand it, You need a bit of science fiction, some episodes of Rick & Morty and a pinch of madness
+To Understand it, You need a bit of science fiction, some episodes of Rick & Morty and a pinch of déjà vu madness (Read about Mandelbrot Set type Fractal to get a gist)
 
 
 Fun Fact : To keep you problem solving approach fresh, unique and sharp don't follow any Problem Solvers on YouTube, neither look-up for solutions of the problem, instead solve it yourself, even if it means solving a problem after a week, (Yes 1 problem 1 week or even more)
