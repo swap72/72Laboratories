@@ -1,0 +1,31 @@
+Topic wise patterns on Leetcode to master in DSA 
+
+1. Graph
+
+https://lnkd.in/eKCM3Fnm
+
+2. Binary Search
+https://lnkd.in/ecdDvJVH
+
+3. Greedy
+https://lnkd.in/ejdhN2-g
+
+4. Strings
+https://lnkd.in/eWk-eGvv
+
+5. DP
+https://lnkd.in/eUccKXyM
+
+6 Binary Search Patterns : https://lnkd.in/ejBmDhUw
+
+7 Sliding Window Patterns:https://lnkd.in/eE-Tr7gF
+
+8 Greedy Algorithm Patterns : https://lnkd.in/eeitFH5U
+
+9 Tree Traversal Techniques: https://lnkd.in/ev2AMvSs
+
+10 System Design: https://lnkd.in/ekGABk6Y
+
+11 Math and Number Theory: https://lnkd.in/e-77tW6C
+
+12 Bit Manipulation: https://lnkd.in/eEYFqpKg
