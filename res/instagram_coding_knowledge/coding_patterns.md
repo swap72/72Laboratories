@@ -19,4 +19,4 @@
 ![Pattern 17](https://raw.githubusercontent.com/swap72/72Laboratories/refs/heads/main/res/instagram_coding_knowledge/17.png)
 ![Pattern 18](https://raw.githubusercontent.com/swap72/72Laboratories/refs/heads/main/res/instagram_coding_knowledge/18.png)
 ![Pattern 19](https://raw.githubusercontent.com/swap72/72Laboratories/refs/heads/main/res/instagram_coding_knowledge/19.png)
-![Pattern 20](https://raw.githubusercontent.com/swap72/72Laboratories/refs/heads/main/res/instagram_coding_knowledge/20.png)
+
