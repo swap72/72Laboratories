@@ -14,6 +14,7 @@ _**Edabit was my preferred platform until they switched to a subscription model.
 - [Learn to Program Course on Jutge](https://jutge.org/courses) – Great introductory programming course.
 - [CodeAbbey](https://www.codeabbey.com) – Classic beginner programming challenges.
 - [GeeksforGeeks – Interview Prep](https://www.geeksforgeeks.org) – Start with basic DSA and beginner programming problems.
+- [💡](https://github.com/swap72/cryptography/blob/main/time/note1.md)
 
 ---
 
