@@ -93,6 +93,7 @@ A well-curated list of tutorials, problem sets, coding patterns, and channels to
 - [Complete DS&A Study Plan](https://swap72.github.io/72Laboratories/Curated_Plan/DSA_study_plan)
   -[Visual](https://raw.githubusercontent.com/swap72/72Laboratories/refs/heads/main/Curated_Plan/846b5b86cd3a.png) 
 - [Complete Problem Solving Patterns Guide for LeetCode Mastery](https://swap72.github.io/72Laboratories/Curated_Plan/patterns_for_leetcode)
+- [Coding Patterns / Techniques](https://swap72.github.io/72Laboratories/res/instagram_coding_knowledge/coding_patterns)
   
 ### Commong Problem Solving Patterns :
   - Two Pointers
