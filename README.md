@@ -197,6 +197,12 @@ Move to slightly more challenging platforms to reinforce fundamentals and prepar
 - [NYPC - Nexon Youth Programming Challenge](https://www.nypc.co.kr/main/main.do)
 - [CodeGround by Samsung (Korean)](https://www.codeground.org/about)
 
+### ICPC South Asia Region 🇮🇳
+- [ICPC Asia West Continent](https://wc.indiaicpc.in/)
+- [ICPC Kanpur](https://kanpur.indiaicpc.in/)
+- [ICPC Asia Amritapuri Regional Contest](https://amritaicpc.in/)
+- [ICPC Problem set Archives](https://icpc.kattis.com/)  
+
 ### Indonesia
 
 - [TLX (TOKI Learning Center)](https://tlx.toki.id/)
